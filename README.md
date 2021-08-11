@@ -42,7 +42,7 @@ Importing specific protocols is also supported:
 ## Install
 
 ```bash
-npm install @studydefi/money-legos
+npm install @antonyip/money-legos
 ```
 
 ## Usage
